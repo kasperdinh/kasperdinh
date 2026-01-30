@@ -4,7 +4,9 @@
 
 💻 **Full-Stack Developer** · 💼 **Business-Oriented Product** · 📈 **Scalability & Growth**
 
-<p align="center" style="display: flex; gap: 8px; justify-content: center;">
+</div>
+
+<p align="center" style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/kasperdinh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,7 +17,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 I design, build, and evolve **production-grade systems** that remain stable as products grow and scale in the future.
 
