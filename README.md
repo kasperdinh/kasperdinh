@@ -4,92 +4,18 @@
 
 💻 **Full-Stack Developer** · 💼 **Business-Oriented Product** · 📈 **Scalability & Growth**
 
-  <div style="display: flex; gap: 6px; justify-content: center; margin: 20px">
-    <a
-      href="https://www.linkedin.com/in/kasperdinh"
-      target="_blank"
-      style="text-decoration: none"
-    >
-      <div
-        style="
-          height: 28px;
-          display: flex;
-          align-items: center;
-          gap: 6px;
-          background: #0a66c2;
-          color: white;
-          padding: 0 12px;
-          border-radius: 3px;
-          font-family: Verdana, Geneva, Tahoma, sans-serif;
-          font-size: 11px;
-          font-weight: 600;
-          letter-spacing: 1px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-          height="14"
-          style="filter: invert(1)"
-        />
-        LINKEDIN
-      </div>
-    </a>
-    <a
-      href="https://github.com/kasperdinh"
-      target="_blank"
-      style="text-decoration: none"
-    >
-      <div
-        style="
-          height: 29px;
-          display: flex;
-          align-items: center;
-          gap: 6px;
-          background: #181717;
-          color: white;
-          padding: 0 12px;
-          border-radius: 3px;
-          font-family: Verdana, Geneva, Tahoma, sans-serif;
-          font-size: 11px;
-          font-weight: 600;
-          letter-spacing: 1px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
-          height="14"
-          style="filter: invert(1)"
-        />
-        GITHUB
-      </div>
-    </a>
-    <a href="mailto:dinhnhatbao.work@gmail.com" style="text-decoration: none">
-      <div
-        style="
-          height: 28px;
-          display: flex;
-          align-items: center;
-          gap: 6px;
-          background: #ea4335;
-          color: white;
-          padding: 0 12px;
-          border-radius: 3px;
-          font-family: Verdana, Geneva, Tahoma, sans-serif;
-          font-size: 11px;
-          font-weight: 600;
-          letter-spacing: 1px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-          height="14"
-          style="filter: invert(1)"
-        />
-        EMAIL
-      </div>
-    </a>
-  </div>
-</div>
+<p align="center" style="display: flex; gap: 8px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/kasperdinh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kasperdinh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:dinhnhatbao.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 I design, build, and evolve **production-grade systems** that remain stable as products grow and scale in the future.
 
