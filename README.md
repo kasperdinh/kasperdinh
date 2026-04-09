@@ -53,13 +53,13 @@ I optimize for:
 - 🔁 Products designed to change safely over time
 - 🧹 Codebases that support long-term ownership
 
-## 🚀 Selected Projects
+<!-- ## 🚀 Selected Projects
 
 | Project                                                              | Description                                                                                                                                                                                                                              | Preview                                                  |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | **[KIA Khanh Hoa](https://github.com/kasperdinh/oto-kia-nha-trang)** | **Production-grade dealership platform** built with **Next.js** & **PostgreSQL**. Features a custom Kanban-style lead dashboard, AWS S3 media management, and high-performance SSG architecture for optimal search visibility.           | [kiakhanhhoa.vn](https://kiakhanhhoa.vn)                 |
 | **[Can’s Tyres](https://github.com/kasperdinh/mr-cans-tyres-shop)**  | **Full-stack monorepo solution** bridging local services with digital engagement. Integrates **DeepSeek AI** for automated user consultation and a robust **NestJS** backend to manage inventory and real-time scheduling.               | [canstyres.vercel.app](https://canstyres.vercel.app)     |
-| **[Musica Ratio](https://github.com/kasperdinh/musica-ratio)**       | **Systematic education platform** designed for self-learners. Powered by **MDX** and **Next.js** to deliver structured, interactive music theory content with a focus on clean modular architecture and long-term content extensibility. | [musicaratio.vercel.app](https://musicaratio.vercel.app) |
+| **[Musica Ratio](https://github.com/kasperdinh/musica-ratio)**       | **Systematic education platform** designed for self-learners. Powered by **MDX** and **Next.js** to deliver structured, interactive music theory content with a focus on clean modular architecture and long-term content extensibility. | [musicaratio.vercel.app](https://musicaratio.vercel.app) | -->
 
 ## 🔍 Current Focus
 
