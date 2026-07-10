@@ -2,7 +2,7 @@
 
 # Hi, I’m Kasper 👋
 
-💻 **Full-Stack Developer** · 🧑🏻‍💻 **Software Solutions** · ☁️ **Cloud Environments**
+💻 **Full Stack Developer** · 🧑🏻‍💻 **Software Solutions** · ☁️ **Cloud Environments**
 
 </div>
 
