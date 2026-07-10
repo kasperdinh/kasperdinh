@@ -2,7 +2,7 @@
 
 # Hi, I’m Kasper 👋
 
-💻 **Full-Stack Developer** · 💼 **Business-Oriented Product** · 📈 **Scalability & Growth**
+💻 **Full-Stack Developer** · 🧑🏻‍💻 **Software Solutions** · ☁️ **Cloud Environments**
 
 </div>
 
